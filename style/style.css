@@ -1,0 +1,12 @@
+body {
+    background-color: #fff;
+    text-align: center;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+}
+.itemContent {
+    border: solid 1px #000;
+}
